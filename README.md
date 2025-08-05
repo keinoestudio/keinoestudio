@@ -1,4 +1,4 @@
-# 👋 Bienvenido a Keino Estudio
+# 👋 Te damos la bienvenida a Keino Estudio
 
 **Keino Estudio** es un estudio gallego especializado en diseño y desarrollo web con enfoque audiovisual y publicitario.
 
